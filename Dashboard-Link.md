@@ -1,0 +1,1 @@
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Task-3MarketingFunnelConversionPerformanceAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
