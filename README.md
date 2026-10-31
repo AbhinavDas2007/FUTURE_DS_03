@@ -35,7 +35,7 @@ This project analyzes bank marketing campaign data using Python and Tableau Publ
 
 ## 🖥️ Interactive Dashboard
 
-[**View the Tableau Public Dashboard**](ADD_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[**View the Tableau Public Dashboard**](https://public.tableau.com/views/Task-3MarketingFunnelConversionPerformanceAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Dashboard Preview
 
@@ -43,21 +43,21 @@ This project analyzes bank marketing campaign data using Python and Tableau Publ
 
 ## 📂 Project Structure
 
-- `python-code/` — Python scripts for data cleaning and analysis.
-- `dashboard/` — Packaged Tableau workbook (`.twbx`).
-- `screenshots/` — Screenshots of charts and analysis.
+- `TASK - 3 (Python)` — Python scripts for data cleaning and analysis.
+- `Task - 3 (Marketing Funnel & Conversion Analysis/` — Packaged Tableau workbook (`.twbx`).
+- `Screenshots` — Screenshots of charts and analysis.
 - `dashboard-screenshot.png` — Main dashboard preview.
 - `README.md` — Project documentation.
 
 ## 📚 Dataset
 
-**Source:** [Add the original Bank Marketing dataset link here](ADD_YOUR_DATASET_SOURCE_LINK_HERE)
+**Source:** [Add the original Bank Marketing dataset link here](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 
 The dataset contains information about bank marketing contacts and customer subscription outcomes.
 
 ## 👨‍💻 Author
 
-Rahul
+Abhinav Das
 
 ## 📌 Note
 
